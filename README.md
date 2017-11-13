@@ -19,7 +19,7 @@ const zkUploadPlugin = require('webpack-zookeeper-upload-plugin');
 
 ```javascript
 plugins: [
-  new qiniuPlugin({
+  new zkUploadPlugin({
     // 静态文件地址目录，文件名不用传，直接使用webpack assets里面的；
     // 如果静态文件上传时使用了hash来做目录名，可以使用[hash]拼接在合适的位置，在上传至zk服务器时会自动替换；
     // 例如：静态文件地址为: https://cdn.com/9c371e67cb62ffbc037e/index.html,
