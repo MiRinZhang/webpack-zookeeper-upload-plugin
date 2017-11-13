@@ -16,14 +16,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/MiRinZhang/webpack-qiniu-plugin.git"
+    "url": "https://github.com/MiRinZhang/webpack-zookeeper-upload-plugin.git"
   },
   "author": "MiRinZhang <noodles@yabing.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MiRinZhang/webpack-qiniu-plugin/issues"
+    "url": "https://github.com/MiRinZhang/webpack-zookeeper-upload-plugin/issues"
   },
-  "homepage": "https://github.com/MiRinZhang/webpack-qiniu-plugin",
+  "homepage": "https://github.com/MiRinZhang/webpack-zookeeper-upload-plugin",
   "dependencies": {
     "node-zookeeper-client": "^0.2.2",
     "webpack": "^3.8.1"
