@@ -1,6 +1,6 @@
 {
   "name": "webpack-zookeeper-upload-plugin",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Webpack plugin for uploading static resources to the zookeeper server",
   "main": "index.js",
   "scripts": {
